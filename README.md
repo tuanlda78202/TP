@@ -22,5 +22,6 @@ All older announcements can be found in ANNOUNCEMENTS.md
 - `Demo Project`: all `.py`, `.ipynb` & `.pdf` files for discussion & test.
 - `Official Project`: all `.py`, `.ipynb` & `.pdf` files for publication.
 
-### Materials:
-* Notion: https://bit.ly/3BXkxv4
+### Materials
+* Notion: https://bit.ly/3woddHK
+
