@@ -15,7 +15,7 @@ We are sophomore, major in Data Science and Artificial Intelligence at Hanoi Uni
 - End of November: Finish the pseudocode, analyze most of the algorithms that we choose and not choose. Major part of the report should be finish.
 - End of December: The deadline of the project submission. Finish code and the report, and everyone should be prepared to be asked the hardest aspects of the project.
 
-All older announcements can be found in ANNOUNCEMENTS.md
+All older announcements can be found in `ANNOUNCEMENTS.md`
 
 ### Directories
 
