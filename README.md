@@ -3,13 +3,13 @@ Write a program to find the most optimal logistic route to transport goods betwe
 ## Collaborators 
 We are sophomore, major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology. Under the guidance of our lecturer, Professor Muriel Visani, we will together solve this problem.
 
-| Name                        | Student ID       | Mail                                      |
-| :---                        |    :----:        |          ---:                             |
-| Le Duc Anh Tuan             | 20204929         | tuan.lda204929@sis.hust.edu.vn            |
-| Nguyen Nho Trung            | 20204894         | trung.nn204894@sis.hust.edu.vn            |
-| Nguyen Thanh Dat            | 20204903         | dat.nt204903@sis.hust.edu.vn              |
-| Nguyen Truong Truong An     | 20204866         | an.ntt204866@sis.hust.edu.vn              |
-| Tran Vuong Quoc Dat         | 20200145         | dat.tvp200145@sis.hust.edu.vn             |
+| Name                         | Student ID       | Mail                                      |
+| :---                         |    :----:        |          ---:                             |
+| Le Duc Anh Tuan              | 20204929         | tuan.lda204929@sis.hust.edu.vn            |
+| Nguyen Nho Trung             | 20204894         | trung.nn204894@sis.hust.edu.vn            |
+| Nguyen Thanh Dat             | 20204903         | dat.nt204903@sis.hust.edu.vn              |
+| Nguyen Truong Truong An      | 20204866         | an.ntt204866@sis.hust.edu.vn              |
+| Tran Vuong Quoc Dat          | 20200145         | dat.tvp200145@sis.hust.edu.vn             |
 
 ## Announcements
 - End of November: Finish the pseudocode, analyze most of the algorithms that we choose and not choose. Major part of the report should be finish.
