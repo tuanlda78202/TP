@@ -18,7 +18,7 @@ We are sophomore, major in Data Science and Artificial Intelligence at Hanoi Uni
 All older announcements can be found in ANNOUNCEMENTS.md
 
 ### Directories
-The directory...
+
 - `Demo Project`: all `.py`, `.ipynb` & `.pdf` files for discussion & test.
 - `Official Project`: all `.py`, `.ipynb` & `.pdf` files for publication.
 
