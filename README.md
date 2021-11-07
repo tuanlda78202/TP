@@ -19,8 +19,8 @@ All older announcements can be found in ANNOUNCEMENTS.md
 
 ### Directories
 
-- `Demo Project`: all `.py`, `.ipynb` & `.pdf` files for discussion & test.
-- `Official Project`: all `.py`, `.ipynb` & `.pdf` files for publication.
+- Demo Project: all `.py`, `.ipynb` & `.pdf` files for discussion & test.
+- Official Project: all `.py`, `.ipynb` & `.pdf` files for publication.
 
 ### Materials
 * Notion: https://bit.ly/3woddHK
