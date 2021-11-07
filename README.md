@@ -1,7 +1,7 @@
 # Transportation planning between
 Write a program to find the most optimal logistic route to transport goods between 2 warehouses located in 2 cities(e.g., warehouse in Hanoi and Vinh city). The warehouse system is divided into two types: main warehouse and secondary warehouse.
 ## Collaborators 
-We are sophomore, major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology. Under the guidance of our lecturer, Professor Muriel Visani, we will together solve this problem.
+We are sophomore, major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology. Under the guidance of our lecturer, Professor Muriel Visani, we together solve this problem.
 
 | Name                         | Student ID       | Mail                                      |
 | :---                         |    :----:        |          ---:                             |
