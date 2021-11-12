@@ -24,5 +24,4 @@ All older announcements can be found in `ANNOUNCEMENTS.md`
 
 ### Materials
 * Notion: https://bit.ly/3woddHK
-* LaTex: https://www.overleaf.com
 
