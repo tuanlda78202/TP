@@ -4,7 +4,7 @@ Write a program to find the most optimal logistic route to transport goods betwe
 We are sophomore, major in Data Science and Artificial Intelligence at Hanoi University of Science and Technology. Under the guidance of our lecturer, Professor Muriel Visani, we together solve this problem.
 
 | Name                         | Student ID       | Mail                                      |
-| :---                         |    :----:        |          ---:                             |
+| :---                         |    :----:        |          :---:                             |
 | Le Duc Anh Tuan              | 20204929         | tuan.lda204929@sis.hust.edu.vn            |
 | Nguyen Nho Trung             | 20204894         | trung.nn204894@sis.hust.edu.vn            |
 | Nguyen Thanh Dat             | 20204903         | dat.nt204903@sis.hust.edu.vn              |
