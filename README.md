@@ -18,5 +18,5 @@ We are sophomores, major in Data Science and Artificial Intelligence at Hanoi Un
 
 All older announcements can be found in `ANNOUNCEMENTS.md`
 ### Materials
-* Notion: https://bit.ly/3woddHK
+* Notion: https://www.notion.so/tuanlda78202/Project-AI-5bb5cf212ed9448e9fa2ef38e0dea774
 
