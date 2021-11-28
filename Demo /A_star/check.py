@@ -1,1 +1,3 @@
-print('hello world')
+input = "thanh hoa"
+
+print(input.title())
