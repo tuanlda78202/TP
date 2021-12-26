@@ -1,0 +1,301 @@
+,Unnamed: 0,start,end,cost1
+0,0,Ha Noi,Quang Nam,739.4564656
+1,1,Ha Noi,Nghe An,492.4471959
+2,2,Ha Noi,Hue,679.5971208
+3,3,Ha Noi,Dak Lak,950.3410069
+4,4,Ha Noi,Binh Dinh,943.4047337
+5,5,Ha Noi,Quang Ngai,796.3646336
+6,6,Ha Noi,Phu Yen,965.4338831
+7,7,Ha Noi,Ha Tinh,517.5816539
+8,8,Ha Noi,Quang Binh,587.9313064
+9,9,Ha Noi,Gia Lai,865.6509417
+10,10,Hai Phong,Quang Nam,839.2583663
+11,11,Hai Phong,Nghe An,592.2490966
+12,12,Hai Phong,Hue,779.3990215
+13,13,Hai Phong,Dak Lak,1050.142908
+14,14,Hai Phong,Binh Dinh,1043.206634
+15,15,Hai Phong,Quang Ngai,896.1665343
+16,16,Hai Phong,Phu Yen,1065.235784
+17,17,Hai Phong,Ha Tinh,617.3835545
+18,18,Hai Phong,Quang Binh,687.733207
+19,19,Hai Phong,Gia Lai,965.4528424
+20,20,Bac Ninh,Quang Nam,774.1643545
+21,21,Bac Ninh,Nghe An,527.1550848
+22,22,Bac Ninh,Hue,714.3050097
+23,23,Bac Ninh,Dak Lak,985.0488957
+24,24,Bac Ninh,Binh Dinh,978.1126226
+25,25,Bac Ninh,Quang Ngai,831.0725225
+26,26,Bac Ninh,Phu Yen,1000.141772
+27,27,Bac Ninh,Ha Tinh,552.2895427
+28,28,Bac Ninh,Quang Binh,622.6391952
+29,29,Bac Ninh,Gia Lai,900.3588306
+30,30,Hai Duong,Quang Nam,796.3640846
+31,31,Hai Duong,Nghe An,549.354815
+32,32,Hai Duong,Hue,736.5047398
+33,33,Hai Duong,Dak Lak,1007.248626
+34,34,Hai Duong,Binh Dinh,1000.312353
+35,35,Hai Duong,Quang Ngai,853.2722526
+36,36,Hai Duong,Phu Yen,1022.341502
+37,37,Hai Duong,Ha Tinh,574.4892729
+38,38,Hai Duong,Quang Binh,644.8389254
+39,39,Hai Duong,Gia Lai,922.5585608
+40,40,Thanh Hoa,Quang Nam,786.827436
+41,41,Thanh Hoa,Nghe An,539.8181663
+42,42,Thanh Hoa,Hue,726.9680912
+43,43,Thanh Hoa,Dak Lak,997.7119772
+44,44,Thanh Hoa,Binh Dinh,990.7757041
+45,45,Thanh Hoa,Quang Ngai,843.735604
+46,46,Thanh Hoa,Phu Yen,1012.804853
+47,47,Thanh Hoa,Ha Tinh,564.9526242
+48,48,Thanh Hoa,Quang Binh,635.3022767
+49,49,Thanh Hoa,Gia Lai,913.0219121
+50,50,Nam Dinh,Quang Nam,798.2915655
+51,51,Nam Dinh,Nghe An,551.2822958
+52,52,Nam Dinh,Hue,738.4322207
+53,53,Nam Dinh,Dak Lak,1009.176107
+54,54,Nam Dinh,Binh Dinh,1002.239834
+55,55,Nam Dinh,Quang Ngai,855.1997335
+56,56,Nam Dinh,Phu Yen,1024.268983
+57,57,Nam Dinh,Ha Tinh,576.4167537
+58,58,Nam Dinh,Quang Binh,646.7664062
+59,59,Nam Dinh,Gia Lai,924.4860416
+60,60,Thai Nguyen,Quang Nam,926.3932804
+61,61,Thai Nguyen,Nghe An,679.3840107
+62,62,Thai Nguyen,Hue,866.5339356
+63,63,Thai Nguyen,Dak Lak,1137.277822
+64,64,Thai Nguyen,Binh Dinh,1130.341548
+65,65,Thai Nguyen,Quang Ngai,983.3014484
+66,66,Thai Nguyen,Phu Yen,1152.370698
+67,67,Thai Nguyen,Ha Tinh,704.5184686
+68,68,Thai Nguyen,Quang Binh,774.8681211
+69,69,Thai Nguyen,Gia Lai,1052.587757
+70,70,Phu Tho,Quang Nam,726.2646328
+71,71,Phu Tho,Nghe An,479.2553631
+72,72,Phu Tho,Hue,666.405288
+73,73,Phu Tho,Dak Lak,937.1491741
+74,74,Phu Tho,Binh Dinh,930.2129009
+75,75,Phu Tho,Quang Ngai,783.1728008
+76,76,Phu Tho,Phu Yen,952.2420503
+77,77,Phu Tho,Ha Tinh,504.3898211
+78,78,Phu Tho,Quang Binh,574.7394736
+79,79,Phu Tho,Gia Lai,852.4591089
+80,80,Thai Binh,Quang Nam,808.9997232
+81,81,Thai Binh,Nghe An,561.9904535
+82,82,Thai Binh,Hue,749.1403784
+83,83,Thai Binh,Dak Lak,1019.884264
+84,84,Thai Binh,Binh Dinh,1012.947991
+85,85,Thai Binh,Quang Ngai,865.9078912
+86,86,Thai Binh,Phu Yen,1034.977141
+87,87,Thai Binh,Ha Tinh,587.1249114
+88,88,Thai Binh,Quang Binh,657.4745639
+89,89,Thai Binh,Gia Lai,935.1941993
+90,90,Quang Ninh,Quang Nam,853.6066989
+91,91,Quang Ninh,Nghe An,606.5974292
+92,92,Quang Ninh,Hue,793.7473541
+93,93,Quang Ninh,Dak Lak,1064.49124
+94,94,Quang Ninh,Binh Dinh,1057.554967
+95,95,Quang Ninh,Quang Ngai,910.5148669
+96,96,Quang Ninh,Phu Yen,1079.584116
+97,97,Quang Ninh,Ha Tinh,631.7318871
+98,98,Quang Ninh,Quang Binh,702.0815396
+99,99,Quang Ninh,Gia Lai,979.801175
+100,100,Quang Nam,Ho Chi Minh,744.1482139
+101,101,Quang Nam,Can Tho,844.3031449
+102,102,Quang Nam,Dong Nai,761.9740933
+103,103,Quang Nam,Khanh Hoa,1030.928723
+104,104,Quang Nam,Vung Tau,783.5646603
+105,105,Quang Nam,Ca Mau,967.037608
+106,106,Quang Nam,Soc Trang,903.9189579
+107,107,Quang Nam,An Giang,851.4086644
+108,108,Quang Nam,Lam Dong,949.8060213
+109,109,Quang Nam,Binh Duong,756.2055932
+110,110,Nghe An,Ho Chi Minh,497.1389443
+111,111,Nghe An,Can Tho,597.2938752
+112,112,Nghe An,Dong Nai,514.9648236
+113,113,Nghe An,Khanh Hoa,783.9194533
+114,114,Nghe An,Vung Tau,536.5553906
+115,115,Nghe An,Ca Mau,720.0283383
+116,116,Nghe An,Soc Trang,656.9096882
+117,117,Nghe An,An Giang,604.3993947
+118,118,Nghe An,Lam Dong,702.7967517
+119,119,Nghe An,Binh Duong,509.1963236
+120,120,Hue,Ho Chi Minh,684.2888691
+121,121,Hue,Can Tho,784.4438001
+122,122,Hue,Dong Nai,702.1147484
+123,123,Hue,Khanh Hoa,971.0693781
+124,124,Hue,Vung Tau,723.7053155
+125,125,Hue,Ca Mau,907.1782632
+126,126,Hue,Soc Trang,844.0596131
+127,127,Hue,An Giang,791.5493196
+128,128,Hue,Lam Dong,889.9466765
+129,129,Hue,Binh Duong,696.3462484
+130,130,Dak Lak,Ho Chi Minh,1196.585329
+131,131,Dak Lak,Can Tho,1296.74026
+132,132,Dak Lak,Dong Nai,1214.411208
+133,133,Dak Lak,Khanh Hoa,1483.365838
+134,134,Dak Lak,Vung Tau,1236.001775
+135,135,Dak Lak,Ca Mau,1419.474723
+136,136,Dak Lak,Soc Trang,1356.356073
+137,137,Dak Lak,An Giang,1303.84578
+138,138,Dak Lak,Lam Dong,1402.243136
+139,139,Dak Lak,Binh Duong,1208.642708
+140,140,Binh Dinh,Ho Chi Minh,892.9557799
+141,141,Binh Dinh,Can Tho,993.1107109
+142,142,Binh Dinh,Dong Nai,910.7816592
+143,143,Binh Dinh,Khanh Hoa,1179.736289
+144,144,Binh Dinh,Vung Tau,932.3722263
+145,145,Binh Dinh,Ca Mau,1115.845174
+146,146,Binh Dinh,Soc Trang,1052.726524
+147,147,Binh Dinh,An Giang,1000.21623
+148,148,Binh Dinh,Lam Dong,1098.613587
+149,149,Binh Dinh,Binh Duong,905.0131592
+150,150,Quang Ngai,Ho Chi Minh,1518.693874
+151,151,Quang Ngai,Can Tho,1618.848805
+152,152,Quang Ngai,Dong Nai,1536.519753
+153,153,Quang Ngai,Khanh Hoa,1805.474383
+154,154,Quang Ngai,Vung Tau,1558.11032
+155,155,Quang Ngai,Ca Mau,1741.583268
+156,156,Quang Ngai,Soc Trang,1678.464618
+157,157,Quang Ngai,An Giang,1625.954324
+158,158,Quang Ngai,Lam Dong,1724.351681
+159,159,Quang Ngai,Binh Duong,1530.751253
+160,160,Phu Yen,Ho Chi Minh,970.1256314
+161,161,Phu Yen,Can Tho,1070.280562
+162,162,Phu Yen,Dong Nai,987.9515107
+163,163,Phu Yen,Khanh Hoa,1256.90614
+164,164,Phu Yen,Vung Tau,1009.542078
+165,165,Phu Yen,Ca Mau,1193.015025
+166,166,Phu Yen,Soc Trang,1129.896375
+167,167,Phu Yen,An Giang,1077.386082
+168,168,Phu Yen,Lam Dong,1175.783439
+169,169,Phu Yen,Binh Duong,982.1830107
+170,170,Ha Tinh,Ho Chi Minh,522.2734022
+171,171,Ha Tinh,Can Tho,622.4283331
+172,172,Ha Tinh,Dong Nai,540.0992815
+173,173,Ha Tinh,Khanh Hoa,809.0539112
+174,174,Ha Tinh,Vung Tau,561.6898485
+175,175,Ha Tinh,Ca Mau,745.1627962
+176,176,Ha Tinh,Soc Trang,682.0441462
+177,177,Ha Tinh,An Giang,629.5338526
+178,178,Ha Tinh,Lam Dong,727.9312096
+179,179,Ha Tinh,Binh Duong,534.3307815
+180,180,Quang Binh,Ho Chi Minh,592.6230547
+181,181,Quang Binh,Can Tho,692.7779856
+182,182,Quang Binh,Dong Nai,610.448934
+183,183,Quang Binh,Khanh Hoa,879.4035637
+184,184,Quang Binh,Vung Tau,632.039501
+185,185,Quang Binh,Ca Mau,815.5124487
+186,186,Quang Binh,Soc Trang,752.3937987
+187,187,Quang Binh,An Giang,699.8835051
+188,188,Quang Binh,Lam Dong,798.2808621
+189,189,Quang Binh,Binh Duong,604.680434
+190,190,Gia Lai,Ho Chi Minh,870.3426901
+191,191,Gia Lai,Can Tho,970.497621
+192,192,Gia Lai,Dong Nai,888.1685694
+193,193,Gia Lai,Khanh Hoa,1157.123199
+194,194,Gia Lai,Vung Tau,909.7591364
+195,195,Gia Lai,Ca Mau,1093.232084
+196,196,Gia Lai,Soc Trang,1030.113434
+197,197,Gia Lai,An Giang,977.6031405
+198,198,Gia Lai,Lam Dong,1076.000497
+199,199,Gia Lai,Binh Duong,882.4000693
+200,200,Ho Chi Minh,Ha Noi,954.8766894
+201,201,Ho Chi Minh,Hai Phong,1054.714174
+202,202,Ho Chi Minh,Bac Ninh,957.2136684
+203,203,Ho Chi Minh,Hai Duong,971.2333189
+204,204,Ho Chi Minh,Thanh Hoa,712.1603073
+205,205,Ho Chi Minh,Nam Dinh,1095.680975
+206,206,Ho Chi Minh,Thai Nguyen,918.3751142
+207,207,Ho Chi Minh,Phu Tho,651.5975041
+208,208,Ho Chi Minh,Thai Binh,1084.972817
+209,209,Ho Chi Minh,Quang Ninh,1015.544721
+210,210,Can Tho,Ha Noi,1244.649437
+211,211,Can Tho,Hai Phong,1344.486921
+212,212,Can Tho,Bac Ninh,1246.986416
+213,213,Can Tho,Hai Duong,1261.006066
+214,214,Can Tho,Thanh Hoa,1001.933055
+215,215,Can Tho,Nam Dinh,1385.453722
+216,216,Can Tho,Thai Nguyen,1208.147862
+217,217,Can Tho,Phu Tho,941.3702517
+218,218,Can Tho,Thai Binh,1374.745565
+219,219,Can Tho,Quang Ninh,1305.317468
+220,220,Dong Nai,Ha Noi,972.7025687
+221,221,Dong Nai,Hai Phong,1072.540053
+222,222,Dong Nai,Bac Ninh,975.0395477
+223,223,Dong Nai,Hai Duong,989.0591982
+224,224,Dong Nai,Thanh Hoa,729.9861866
+225,225,Dong Nai,Nam Dinh,1113.506854
+226,226,Dong Nai,Thai Nguyen,936.2009936
+227,227,Dong Nai,Phu Tho,669.4233834
+228,228,Dong Nai,Thai Binh,1102.798696
+229,229,Dong Nai,Quang Ninh,1033.3706
+230,230,Khanh Hoa,Ha Noi,1241.657198
+231,231,Khanh Hoa,Hai Phong,1341.494683
+232,232,Khanh Hoa,Bac Ninh,1243.994177
+233,233,Khanh Hoa,Hai Duong,1258.013828
+234,234,Khanh Hoa,Thanh Hoa,998.9408163
+235,235,Khanh Hoa,Nam Dinh,1382.461484
+236,236,Khanh Hoa,Thai Nguyen,1205.155623
+237,237,Khanh Hoa,Phu Tho,938.3780131
+238,238,Khanh Hoa,Thai Binh,1371.753326
+239,239,Khanh Hoa,Quang Ninh,1302.32523
+240,240,Vung Tau,Ha Noi,994.2931358
+241,241,Vung Tau,Hai Phong,1094.13062
+242,242,Vung Tau,Bac Ninh,996.6301148
+243,243,Vung Tau,Hai Duong,1010.649765
+244,244,Vung Tau,Thanh Hoa,751.5767536
+245,245,Vung Tau,Nam Dinh,1135.097421
+246,246,Vung Tau,Thai Nguyen,957.7915606
+247,247,Vung Tau,Phu Tho,691.0139505
+248,248,Vung Tau,Thai Binh,1124.389263
+249,249,Vung Tau,Quang Ninh,1054.961167
+250,250,Ca Mau,Ha Noi,1189.745046
+251,251,Ca Mau,Hai Phong,1289.58253
+252,252,Ca Mau,Bac Ninh,1192.082025
+253,253,Ca Mau,Hai Duong,1206.101675
+254,254,Ca Mau,Thanh Hoa,947.0286637
+255,255,Ca Mau,Nam Dinh,1330.549331
+256,256,Ca Mau,Thai Nguyen,1153.243471
+257,257,Ca Mau,Phu Tho,886.4658605
+258,258,Ca Mau,Thai Binh,1319.841173
+259,259,Ca Mau,Quang Ninh,1250.413077
+260,260,Soc Trang,Ha Noi,1223.750224
+261,261,Soc Trang,Hai Phong,1323.587709
+262,262,Soc Trang,Bac Ninh,1226.087203
+263,263,Soc Trang,Hai Duong,1240.106854
+264,264,Soc Trang,Thanh Hoa,981.0338423
+265,265,Soc Trang,Nam Dinh,1364.55451
+266,266,Soc Trang,Thai Nguyen,1187.248649
+267,267,Soc Trang,Phu Tho,920.4710392
+268,268,Soc Trang,Thai Binh,1353.846352
+269,269,Soc Trang,Quang Ninh,1284.418256
+270,270,An Giang,Ha Noi,1209.686535
+271,271,An Giang,Hai Phong,1309.524019
+272,272,An Giang,Bac Ninh,1212.023514
+273,273,An Giang,Hai Duong,1226.043164
+274,274,An Giang,Thanh Hoa,966.9701528
+275,275,An Giang,Nam Dinh,1350.49082
+276,276,An Giang,Thai Nguyen,1173.18496
+277,277,An Giang,Phu Tho,906.4073496
+278,278,An Giang,Thai Binh,1339.782662
+279,279,An Giang,Quang Ninh,1270.354566
+280,280,Lam Dong,Ha Noi,2029.766055
+281,281,Lam Dong,Hai Phong,2129.60354
+282,282,Lam Dong,Bac Ninh,2032.103034
+283,283,Lam Dong,Hai Duong,2046.122685
+284,284,Lam Dong,Thanh Hoa,1787.049673
+285,285,Lam Dong,Nam Dinh,2170.57034
+286,286,Lam Dong,Thai Nguyen,1993.26448
+287,287,Lam Dong,Phu Tho,1726.48687
+288,288,Lam Dong,Thai Binh,2159.862183
+289,289,Lam Dong,Quang Ninh,2090.434086
+290,290,Binh Duong,Ha Noi,966.9340687
+291,291,Binh Duong,Hai Phong,1066.771553
+292,292,Binh Duong,Bac Ninh,969.2710477
+293,293,Binh Duong,Hai Duong,983.2906982
+294,294,Binh Duong,Thanh Hoa,724.2176866
+295,295,Binh Duong,Nam Dinh,1107.738354
+296,296,Binh Duong,Thai Nguyen,930.4324935
+297,297,Binh Duong,Phu Tho,663.6548834
+298,298,Binh Duong,Thai Binh,1097.030196
+299,299,Binh Duong,Quang Ninh,1027.597
