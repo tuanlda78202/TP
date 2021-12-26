@@ -1,7 +1,5 @@
 # DISSCUSION
 ## Fri 12 Nov 11:00 PM
-We discussed task division and got into further detail on the project's algorithms. Below is the division task for the project:
-
 | Task                         | Members                                       |
 | :----                        |    :----:                                     |
 | Data Processing              | Le Duc Anh Tuan & Nguyen Nho Trung            |
