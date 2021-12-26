@@ -1,0 +1,301 @@
+Start,End ,Cost,Cost_1,Cost_2,Cost_3
+Ha Noi,Quang Nam,751.0,115,389,247
+Ha Noi,Nghe An,504.0,115,389,0
+Ha Noi,Hue,691.0,115,389,187
+Ha Noi,Dak Lak,961.0,115,389,457
+Ha Noi,Binh Dinh,899.0,115,389,395
+Ha Noi,Quang Ngai,807.0,115,389,303
+Ha Noi,Phu Yen,976.0,115,389,472
+Ha Noi,Ha Tinh,529.0,115,389,25
+Ha Noi,Quang Binh,599.0,115,389,95
+Ha Noi,Gia Lai,877.0,115,389,373
+Hai Phong,Quang Nam,874.0,238,389,247
+Hai Phong,Nghe An,627.0,238,389,0
+Hai Phong,Hue,814.0,238,389,187
+Hai Phong,Dak Lak,1.084,238,389,457
+Hai Phong,Binh Dinh,1.022,238,389,395
+Hai Phong,Quang Ngai,930.0,238,389,303
+Hai Phong,Phu Yen,1.099,238,389,472
+Hai Phong,Ha Tinh,652.0,238,389,25
+Hai Phong,Quang Binh,722.0,238,389,95
+Hai Phong,Gia Lai,1.0,238,389,373
+Bac Ninh,Quang Nam,879.0,243,389,247
+Bac Ninh,Nghe An,632.0,243,389,0
+Bac Ninh,Hue,819.0,243,389,187
+Bac Ninh,Dak Lak,1.089,243,389,457
+Bac Ninh,Binh Dinh,1.027,243,389,395
+Bac Ninh,Quang Ngai,935.0,243,389,303
+Bac Ninh,Phu Yen,1.104,243,389,472
+Bac Ninh,Ha Tinh,657.0,243,389,25
+Bac Ninh,Quang Binh,727.0,243,389,95
+Bac Ninh,Gia Lai,1.005,243,389,373
+Hai Duong,Quang Nam,876.0,240,389,247
+Hai Duong,Nghe An,629.0,240,389,0
+Hai Duong,Hue,816.0,240,389,187
+Hai Duong,Dak Lak,1.086,240,389,457
+Hai Duong,Binh Dinh,1.024,240,389,395
+Hai Duong,Quang Ngai,932.0,240,389,303
+Hai Duong,Phu Yen,1.101,240,389,472
+Hai Duong,Ha Tinh,654.0,240,389,25
+Hai Duong,Quang Binh,724.0,240,389,95
+Hai Duong,Gia Lai,1.002,240,389,373
+Thanh Hoa,Quang Nam,786.0,150,389,247
+Thanh Hoa,Nghe An,539.0,150,389,0
+Thanh Hoa,Hue,726.0,150,389,187
+Thanh Hoa,Dak Lak,996.0,150,389,457
+Thanh Hoa,Binh Dinh,934.0,150,389,395
+Thanh Hoa,Quang Ngai,842.0,150,389,303
+Thanh Hoa,Phu Yen,1.011,150,389,472
+Thanh Hoa,Ha Tinh,564.0,150,389,25
+Thanh Hoa,Quang Binh,634.0,150,389,95
+Thanh Hoa,Gia Lai,912.0,150,389,373
+Nam Dinh,Quang Nam,833.0,197,389,247
+Nam Dinh,Nghe An,586.0,197,389,0
+Nam Dinh,Hue,773.0,197,389,187
+Nam Dinh,Dak Lak,1.043,197,389,457
+Nam Dinh,Binh Dinh,981.0,197,389,395
+Nam Dinh,Quang Ngai,889.0,197,389,303
+Nam Dinh,Phu Yen,1.058,197,389,472
+Nam Dinh,Ha Tinh,611.0,197,389,25
+Nam Dinh,Quang Binh,681.0,197,389,95
+Nam Dinh,Gia Lai,959.0,197,389,373
+Thai Nguyen,Quang Nam,787.0,151,389,247
+Thai Nguyen,Nghe An,540.0,151,389,0
+Thai Nguyen,Hue,727.0,151,389,187
+Thai Nguyen,Dak Lak,997.0,151,389,457
+Thai Nguyen,Binh Dinh,935.0,151,389,395
+Thai Nguyen,Quang Ngai,843.0,151,389,303
+Thai Nguyen,Phu Yen,1.012,151,389,472
+Thai Nguyen,Ha Tinh,565.0,151,389,25
+Thai Nguyen,Quang Binh,635.0,151,389,95
+Thai Nguyen,Gia Lai,913.0,151,389,373
+Phu Tho,Quang Nam,725.0,89,389,247
+Phu Tho,Nghe An,478.0,89,389,0
+Phu Tho,Hue,665.0,89,389,187
+Phu Tho,Dak Lak,935.0,89,389,457
+Phu Tho,Binh Dinh,873.0,89,389,395
+Phu Tho,Quang Ngai,781.0,89,389,303
+Phu Tho,Phu Yen,950.0,89,389,472
+Phu Tho,Ha Tinh,503.0,89,389,25
+Phu Tho,Quang Binh,573.0,89,389,95
+Phu Tho,Gia Lai,851.0,89,389,373
+Thai Binh,Quang Nam,844.0,208,389,247
+Thai Binh,Nghe An,597.0,208,389,0
+Thai Binh,Hue,784.0,208,389,187
+Thai Binh,Dak Lak,1.054,208,389,457
+Thai Binh,Binh Dinh,992.0,208,389,395
+Thai Binh,Quang Ngai,900.0,208,389,303
+Thai Binh,Phu Yen,1.069,208,389,472
+Thai Binh,Ha Tinh,622.0,208,389,25
+Thai Binh,Quang Binh,692.0,208,389,95
+Thai Binh,Gia Lai,970.0,208,389,373
+Quang Ninh,Quang Nam,913.0,277,389,247
+Quang Ninh,Nghe An,666.0,277,389,0
+Quang Ninh,Hue,853.0,277,389,187
+Quang Ninh,Dak Lak,1.123,277,389,457
+Quang Ninh,Binh Dinh,1.061,277,389,395
+Quang Ninh,Quang Ngai,969.0,277,389,303
+Quang Ninh,Phu Yen,1.138,277,389,472
+Quang Ninh,Ha Tinh,691.0,277,389,25
+Quang Ninh,Quang Binh,761.0,277,389,95
+Quang Ninh,Gia Lai,1.039,277,389,373
+Quang Nam,Ho Chi Minh,744.0,247,497,0
+Quang Nam,Can Tho,821.0,247,497,77
+Quang Nam,Dong Nai,761.0,247,497,17
+Quang Nam,Khanh Hoa,1003.0,247,497,259
+Quang Nam,Vung Tau,783.0,247,497,39
+Quang Nam,Ca Mau,900.0,247,497,156
+Quang Nam,Soc Trang,837.0,247,497,93
+Quang Nam,An Giang,851.0,247,497,107
+Quang Nam,Lam Dong,880.0,247,497,136
+Quang Nam,Binh Duong,756.0,247,497,12
+Nghe An,Ho Chi Minh,497.0,0,497,0
+Nghe An,Can Tho,574.0,0,497,77
+Nghe An,Dong Nai,514.0,0,497,17
+Nghe An,Khanh Hoa,756.0,0,497,259
+Nghe An,Vung Tau,536.0,0,497,39
+Nghe An,Ca Mau,653.0,0,497,156
+Nghe An,Soc Trang,590.0,0,497,93
+Nghe An,An Giang,604.0,0,497,107
+Nghe An,Lam Dong,633.0,0,497,136
+Nghe An,Binh Duong,509.0,0,497,12
+Hue,Ho Chi Minh,684.0,187,497,0
+Hue,Can Tho,761.0,187,497,77
+Hue,Dong Nai,701.0,187,497,17
+Hue,Khanh Hoa,943.0,187,497,259
+Hue,Vung Tau,723.0,187,497,39
+Hue,Ca Mau,840.0,187,497,156
+Hue,Soc Trang,777.0,187,497,93
+Hue,An Giang,791.0,187,497,107
+Hue,Lam Dong,820.0,187,497,136
+Hue,Binh Duong,696.0,187,497,12
+Dak Lak,Ho Chi Minh,1196.0,699,497,0
+Dak Lak,Can Tho,1273.0,699,497,77
+Dak Lak,Dong Nai,1213.0,699,497,17
+Dak Lak,Khanh Hoa,1455.0,699,497,259
+Dak Lak,Vung Tau,1235.0,699,497,39
+Dak Lak,Ca Mau,1352.0,699,497,156
+Dak Lak,Soc Trang,1289.0,699,497,93
+Dak Lak,An Giang,1303.0,699,497,107
+Dak Lak,Lam Dong,1332.0,699,497,136
+Dak Lak,Binh Duong,1208.0,699,497,12
+Binh Dinh,Ho Chi Minh,893.0,396,497,0
+Binh Dinh,Can Tho,970.0,396,497,77
+Binh Dinh,Dong Nai,910.0,396,497,17
+Binh Dinh,Khanh Hoa,1152.0,396,497,259
+Binh Dinh,Vung Tau,932.0,396,497,39
+Binh Dinh,Ca Mau,1049.0,396,497,156
+Binh Dinh,Soc Trang,986.0,396,497,93
+Binh Dinh,An Giang,1000.0,396,497,107
+Binh Dinh,Lam Dong,1029.0,396,497,136
+Binh Dinh,Binh Duong,905.0,396,497,12
+Quang Ngai,Ho Chi Minh,800.0,303,497,0
+Quang Ngai,Can Tho,877.0,303,497,77
+Quang Ngai,Dong Nai,817.0,303,497,17
+Quang Ngai,Khanh Hoa,1059.0,303,497,259
+Quang Ngai,Vung Tau,839.0,303,497,39
+Quang Ngai,Ca Mau,956.0,303,497,156
+Quang Ngai,Soc Trang,893.0,303,497,93
+Quang Ngai,An Giang,907.0,303,497,107
+Quang Ngai,Lam Dong,936.0,303,497,136
+Quang Ngai,Binh Duong,812.0,303,497,12
+Phu Yen,Ho Chi Minh,937.0,440,497,0
+Phu Yen,Can Tho,1014.0,440,497,77
+Phu Yen,Dong Nai,954.0,440,497,17
+Phu Yen,Khanh Hoa,1196.0,440,497,259
+Phu Yen,Vung Tau,976.0,440,497,39
+Phu Yen,Ca Mau,1093.0,440,497,156
+Phu Yen,Soc Trang,1030.0,440,497,93
+Phu Yen,An Giang,1044.0,440,497,107
+Phu Yen,Lam Dong,1073.0,440,497,136
+Phu Yen,Binh Duong,949.0,440,497,12
+Ha Tinh,Ho Chi Minh,522.0,25,497,0
+Ha Tinh,Can Tho,599.0,25,497,77
+Ha Tinh,Dong Nai,539.0,25,497,17
+Ha Tinh,Khanh Hoa,781.0,25,497,259
+Ha Tinh,Vung Tau,561.0,25,497,39
+Ha Tinh,Ca Mau,678.0,25,497,156
+Ha Tinh,Soc Trang,615.0,25,497,93
+Ha Tinh,An Giang,629.0,25,497,107
+Ha Tinh,Lam Dong,658.0,25,497,136
+Ha Tinh,Binh Duong,534.0,25,497,12
+Quang Binh,Ho Chi Minh,592.0,95,497,0
+Quang Binh,Can Tho,669.0,95,497,77
+Quang Binh,Dong Nai,609.0,95,497,17
+Quang Binh,Khanh Hoa,851.0,95,497,259
+Quang Binh,Vung Tau,631.0,95,497,39
+Quang Binh,Ca Mau,748.0,95,497,156
+Quang Binh,Soc Trang,685.0,95,497,93
+Quang Binh,An Giang,699.0,95,497,107
+Quang Binh,Lam Dong,728.0,95,497,136
+Quang Binh,Binh Duong,604.0,95,497,12
+Gia Lai,Ho Chi Minh,870.0,373,497,0
+Gia Lai,Can Tho,947.0,373,497,77
+Gia Lai,Dong Nai,887.0,373,497,17
+Gia Lai,Khanh Hoa,1129.0,373,497,259
+Gia Lai,Vung Tau,909.0,373,497,39
+Gia Lai,Ca Mau,1026.0,373,497,156
+Gia Lai,Soc Trang,963.0,373,497,93
+Gia Lai,An Giang,977.0,373,497,107
+Gia Lai,Lam Dong,1006.0,373,497,136
+Gia Lai,Binh Duong,882.0,373,497,12
+Ho Chi Minh,Ha Noi,677.0,0,562,115
+Ho Chi Minh,Hai Phong,750.0,0,562,188
+Ho Chi Minh,Bac Ninh,712.0,0,562,150
+Ho Chi Minh,Hai Duong,751.0,0,562,189
+Ho Chi Minh,Thanh Hoa,712.0,0,562,150
+Ho Chi Minh,Nam Dinh,711.0,0,562,149
+Ho Chi Minh,Thai Nguyen,685.0,0,562,123
+Ho Chi Minh,Phu Tho,651.0,0,562,89
+Ho Chi Minh,Thai Binh,719.0,0,562,157
+Ho Chi Minh,Quang Ninh,789.0,0,562,227
+Can Tho,Ha Noi,777.0,100,562,115
+Can Tho,Hai Phong,850.0,100,562,188
+Can Tho,Bac Ninh,812.0,100,562,150
+Can Tho,Hai Duong,851.0,100,562,189
+Can Tho,Thanh Hoa,812.0,100,562,150
+Can Tho,Nam Dinh,811.0,100,562,149
+Can Tho,Thai Nguyen,785.0,100,562,123
+Can Tho,Phu Tho,751.0,100,562,89
+Can Tho,Thai Binh,819.0,100,562,157
+Can Tho,Quang Ninh,889.0,100,562,227
+Dong Nai,Ha Noi,694.0,17,562,115
+Dong Nai,Hai Phong,767.0,17,562,188
+Dong Nai,Bac Ninh,729.0,17,562,150
+Dong Nai,Hai Duong,768.0,17,562,189
+Dong Nai,Thanh Hoa,729.0,17,562,150
+Dong Nai,Nam Dinh,728.0,17,562,149
+Dong Nai,Thai Nguyen,702.0,17,562,123
+Dong Nai,Phu Tho,668.0,17,562,89
+Dong Nai,Thai Binh,736.0,17,562,157
+Dong Nai,Quang Ninh,806.0,17,562,227
+Khanh Hoa,Ha Noi,858.0,181,562,115
+Khanh Hoa,Hai Phong,931.0,181,562,188
+Khanh Hoa,Bac Ninh,893.0,181,562,150
+Khanh Hoa,Hai Duong,932.0,181,562,189
+Khanh Hoa,Thanh Hoa,893.0,181,562,150
+Khanh Hoa,Nam Dinh,892.0,181,562,149
+Khanh Hoa,Thai Nguyen,866.0,181,562,123
+Khanh Hoa,Phu Tho,832.0,181,562,89
+Khanh Hoa,Thai Binh,900.0,181,562,157
+Khanh Hoa,Quang Ninh,970.0,181,562,227
+Vung Tau,Ha Noi,716.0,39,562,115
+Vung Tau,Hai Phong,789.0,39,562,188
+Vung Tau,Bac Ninh,751.0,39,562,150
+Vung Tau,Hai Duong,790.0,39,562,189
+Vung Tau,Thanh Hoa,751.0,39,562,150
+Vung Tau,Nam Dinh,750.0,39,562,149
+Vung Tau,Thai Nguyen,724.0,39,562,123
+Vung Tau,Phu Tho,690.0,39,562,89
+Vung Tau,Thai Binh,758.0,39,562,157
+Vung Tau,Quang Ninh,828.0,39,562,227
+Ca Mau,Ha Noi,833.0,156,562,115
+Ca Mau,Hai Phong,906.0,156,562,188
+Ca Mau,Bac Ninh,868.0,156,562,150
+Ca Mau,Hai Duong,907.0,156,562,189
+Ca Mau,Thanh Hoa,868.0,156,562,150
+Ca Mau,Nam Dinh,867.0,156,562,149
+Ca Mau,Thai Nguyen,841.0,156,562,123
+Ca Mau,Phu Tho,807.0,156,562,89
+Ca Mau,Thai Binh,875.0,156,562,157
+Ca Mau,Quang Ninh,945.0,156,562,227
+Soc Trang,Ha Noi,770.0,93,562,115
+Soc Trang,Hai Phong,843.0,93,562,188
+Soc Trang,Bac Ninh,805.0,93,562,150
+Soc Trang,Hai Duong,844.0,93,562,189
+Soc Trang,Thanh Hoa,805.0,93,562,150
+Soc Trang,Nam Dinh,804.0,93,562,149
+Soc Trang,Thai Nguyen,778.0,93,562,123
+Soc Trang,Phu Tho,744.0,93,562,89
+Soc Trang,Thai Binh,812.0,93,562,157
+Soc Trang,Quang Ninh,882.0,93,562,227
+An Giang,Ha Noi,784.0,107,562,115
+An Giang,Hai Phong,857.0,107,562,188
+An Giang,Bac Ninh,819.0,107,562,150
+An Giang,Hai Duong,858.0,107,562,189
+An Giang,Thanh Hoa,819.0,107,562,150
+An Giang,Nam Dinh,818.0,107,562,149
+An Giang,Thai Nguyen,792.0,107,562,123
+An Giang,Phu Tho,758.0,107,562,89
+An Giang,Thai Binh,826.0,107,562,157
+An Giang,Quang Ninh,896.0,107,562,227
+Lam Dong,Ha Noi,813.0,136,562,115
+Lam Dong,Hai Phong,886.0,136,562,188
+Lam Dong,Bac Ninh,848.0,136,562,150
+Lam Dong,Hai Duong,887.0,136,562,189
+Lam Dong,Thanh Hoa,848.0,136,562,150
+Lam Dong,Nam Dinh,847.0,136,562,149
+Lam Dong,Thai Nguyen,821.0,136,562,123
+Lam Dong,Phu Tho,787.0,136,562,89
+Lam Dong,Thai Binh,855.0,136,562,157
+Lam Dong,Quang Ninh,925.0,136,562,227
+Binh Duong,Ha Noi,689.0,12,562,115
+Binh Duong,Hai Phong,762.0,12,562,188
+Binh Duong,Bac Ninh,724.0,12,562,150
+Binh Duong,Hai Duong,763.0,12,562,189
+Binh Duong,Thanh Hoa,724.0,12,562,150
+Binh Duong,Nam Dinh,723.0,12,562,149
+Binh Duong,Thai Nguyen,697.0,12,562,123
+Binh Duong,Phu Tho,663.0,12,562,89
+Binh Duong,Thai Binh,731.0,12,562,157
+Binh Duong,Quang Ninh,801.0,12,562,227
