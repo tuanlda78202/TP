@@ -6,5 +6,5 @@
 | UCS                          | Nguyen Truong Truong An & Tran Vuong Quoc Dat |
 | A*                           | Le Duc Anh Tuan & Tran Vuong Quoc Dat         |
 | IDA*                         | Nguyen Nho Trung & Nguyen Thanh Dat           |
-| RBFS / SMA                   | Nguyen Truong Truong An & Nguyen Thanh Dat    |
+| DFS                          | Nguyen Truong Truong An & Nguyen Thanh Dat    |
 
