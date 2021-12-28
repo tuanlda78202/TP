@@ -1,5 +1,5 @@
 # DISSCUSION
-## Fri 12 Nov 11:00 PM
+## Fri 12 Nov 2021 11:00 PM
 | Task                         | Members                                       |
 | :----                        |    :----:                                     |
 | Data Processing              | Le Duc Anh Tuan & Nguyen Nho Trung            |
